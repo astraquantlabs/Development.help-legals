@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#3B82F6"/>
+    </linearGradient>
+  </defs>
+
+  <circle cx="256" cy="256" r="240" fill="#0D1117" stroke="url(#grad)" stroke-width="12"/>
+
+  <text x="256" y="170"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="42"
+        font-weight="bold"
+        fill="#E6EDF3">
+    DEVELOPMENT
+  </text>
+
+  <text x="256" y="215"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="42"
+        font-weight="bold"
+        fill="#58A6FF">
+    HELP
+  </text>
+
+  <text x="256" y="300"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="92"
+        font-weight="bold"
+        fill="url(#grad)">
+    &lt;/&gt;
+  </text>
+
+  <text x="256" y="360"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="24"
+        fill="#8B949E">
+    CODE • BUILD • LEARN
+  </text>
+</svg>
