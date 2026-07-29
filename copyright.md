@@ -1,82 +1,38 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Copyright & Rights | Development.Help</title>
-    <link rel="stylesheet" href="css/style.css">
-</head>
-<body>
+# © Copyright & Rights
 
-<header>
-    <h1>Development.Help</h1>
-    <nav>
-        <a href="index.html">Home</a>
-        <a href="terms.html">Terms of Service</a>
-        <a href="privacy.html">Privacy Policy</a>
-        <a href="community-guidelines.html">Community Guidelines</a>
-    </nav>
-</header>
+**Effective Date:** July 25, 2026  
+**Last Updated:** July 25, 2026
 
-<main>
+---
 
-<h1>Copyright & Rights</h1>
+## 1. Ownership
 
-<p><strong>Effective Date:</strong> July 25, 2026</p>
-<p><strong>Last Updated:</strong> July 25, 2026</p>
+Unless otherwise stated, the **Development.Help** name, logo, branding, documentation, graphics, original text, and other original content are the intellectual property of **Development.Help**.
 
-<h2>1. Ownership</h2>
-<p>
-Unless otherwise stated, the Development.Help name, logo, branding, website, documentation, graphics, original text, and other original content are owned by Development.Help.
-</p>
+---
 
-<h2>2. Copyright</h2>
-<p>
-© 2026 Development.Help. All rights reserved.
-</p>
+## 2. Copyright
 
-<p>
-Unauthorized copying, reproduction, distribution, modification, or use of our original branding, website content, or documentation without prior permission may violate applicable copyright laws.
-</p>
+**© 2026 Development.Help. All Rights Reserved.**
 
-<h2>3. User Content</h2>
-<p>
-Members retain ownership of the content they create. By posting content within Development.Help, you grant us a limited, non-exclusive license to display, store, and use that content only as necessary to operate and moderate the community.
-</p>
+Unless expressly permitted in writing, you may **not**:
 
-<h2>4. Third-Party Content</h2>
-<p>
-All third-party trademarks, logos, software, and other intellectual property remain the property of their respective owners. References to third-party services do not imply ownership or endorsement.
-</p>
+- Copy or reproduce our original content.
+- Modify or create derivative works from our materials.
+- Redistribute or republish our documentation.
+- Use our branding, logos, or identity in a way that implies affiliation or endorsement.
+- Commercially exploit any part of our original work.
 
-<h2>5. Reporting Copyright Concerns</h2>
-<p>
-If you believe your copyrighted work has been used improperly within Development.Help, please contact the server administration through our official Discord server with sufficient details to investigate your request.
-</p>
+Unauthorized use may violate applicable copyright and intellectual property laws.
 
-<h2>6. Disclaimer</h2>
-<p>
-Development.Help is an independent community and is not affiliated with, endorsed by, or sponsored by Discord Inc.
-</p>
+---
 
-<h2>7. Contact</h2>
-<p>
-Official Discord Server:
-</p>
+## 3. User Content
 
-<p>
-<a href="https://discord.gg/NBhevhTcZp" target="_blank">
-https://discord.gg/NBhevhTcZp
-</a>
-</p>
+Members retain ownership of the content they create.
 
-</main>
+By posting content within **Development.Help**, you grant us a limited, non-exclusive, worldwide, royalty-free license to display, store, and use that content solely for operating, moderating, and improving the community.
 
-<footer>
-<hr>
-<p>© 2026 Development.Help. All rights reserved.</p>
-<p>Last Updated: July 25, 2026</p>
-</footer>
+---
 
-</body>
-</html>
+## 4. Third-Party
