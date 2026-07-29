@@ -1,90 +1,140 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   
- 
-</head>
-<body>
+# 📄 Terms of Service
 
-<header>
-    <h1>Development.Help</h1>
-    <nav>
-        <a href="index.html">Home</a>
-        <a href="privacy.html">Privacy Policy</a>
-        <a href="community-guidelines.html">Community Guidelines</a>
-        <a href="copyright.html">Copyright</a>
-    </nav>
-</header>
+**Effective Date:** July 25, 2026  
+**Last Updated:** July 25, 2026
 
-<main>
+---
 
-<h1>Terms of Service</h1>
+## 1. Acceptance of Terms
 
-<p><strong>Effective Date:</strong> July 25, 2026</p>
-<p><strong>Last Updated:</strong> July 25, 2026</p>
+By accessing or using **Development.Help**, including our Discord server, website, bots, documentation, or related services, you agree to these Terms of Service.
 
-<h2>1. Acceptance of Terms</h2>
-<p>
-By accessing or using Development.Help, including our Discord server, website, bots, or related services, you agree to these Terms of Service. If you do not agree, you must stop using our services.
-</p>
+If you do not agree with these Terms, you must stop using our services.
 
-<h2>2. Eligibility</h2>
-<ul>
-    <li>You must meet Discord's minimum age requirement.</li>
-    <li>You must comply with all applicable laws.</li>
-    <li>You must follow Discord's Terms of Service and Community Guidelines.</li>
-</ul>
+---
 
-<h2>3. Community Rules</h2>
-<ul>
-    <li>No harassment, hate speech, discrimination, or bullying.</li>
-    <li>No spam, advertising, or scams without permission.</li>
-    <li>No illegal, malicious, or harmful content.</li>
-    <li>Respect all members, staff, and moderators.</li>
-    <li>Follow all server rules and announcements.</li>
-</ul>
+## 2. Eligibility
 
-<h2>4. Moderation</h2>
-<p>
-Our staff may issue warnings, mute, kick, ban, or otherwise restrict access to maintain a safe community. Serious or repeated violations may result in permanent removal.
-</p>
+To use our services, you must:
 
-<h2>5. Bots and Services</h2>
-<p>
-Our bots may process commands and store limited information necessary for moderation, ticketing, logging, and other server features. Additional details are available in our Privacy Policy.
-</p>
+- Meet Discord's minimum age requirement.
+- Comply with all applicable laws and regulations.
+- Follow Discord's Terms of Service and Community Guidelines.
+- Follow all Development.Help rules and policies.
 
-<h2>6. Intellectual Property</h2>
-<p>
-The Development.Help name, logo, branding, documentation, website, and original content are owned by Development.Help unless otherwise stated. Unauthorized copying or impersonation may result in action by the server administration.
-</p>
+---
 
-<h2>7. Disclaimer</h2>
-<p>
-Development.Help is an independent community. We are not affiliated with, endorsed by, or sponsored by Discord Inc.
-</p>
+## 3. Community Rules
 
-<h2>8. Changes to These Terms</h2>
-<p>
-We may update these Terms of Service at any time. Continued use of our services after changes means you accept the updated Terms.
-</p>
+All members are expected to:
 
-<h2>9. Contact</h2>
-<p>
-Official Discord Server:<br>
-<a href="https://discord.gg/NBhevhTcZp" target="_blank">
+- Treat others with respect.
+- Avoid harassment, hate speech, discrimination, or bullying.
+- Refrain from spam, scams, phishing, or malicious activities.
+- Follow staff instructions.
+- Use channels appropriately.
+- Comply with the Community Rulebook and Community Guidelines.
+
+Violation of these rules may result in moderation action.
+
+---
+
+## 4. Moderation & Enforcement
+
+Development.Help reserves the right to:
+
+- Issue warnings.
+- Mute members.
+- Remove messages or content.
+- Kick members.
+- Temporarily suspend accounts.
+- Permanently ban users for serious or repeated violations.
+
+Staff decisions are made to protect the community. Members may appeal moderation actions through the appropriate appeal process where available.
+
+---
+
+## 5. Bots & Services
+
+Our bots may collect and process limited information necessary to provide features such as:
+
+- Moderation
+- Support tickets
+- Logging
+- Verification
+- Utility commands
+- Community management
+
+For more information about data collection and processing, please refer to our Privacy Policy.
+
+---
+
+## 6. Intellectual Property
+
+Unless otherwise stated, the **Development.Help** name, branding, documentation, website content, logos, graphics, and original materials are the intellectual property of Development.Help.
+
+You may not:
+
+- Copy or redistribute our original content without permission.
+- Impersonate Development.Help or its staff.
+- Use our branding in a misleading or unauthorized manner.
+
+---
+
+## 7. Third-Party Services
+
+Development.Help may reference or integrate with third-party services, including Discord.
+
+All third-party trademarks and intellectual property remain the property of their respective owners.
+
+Development.Help is not responsible for third-party services or their policies.
+
+---
+
+## 8. Disclaimer
+
+Development.Help is an independent community.
+
+We are **not affiliated with, endorsed by, or sponsored by Discord Inc.**
+
+Our services are provided **"AS IS"** without warranties of any kind, whether express or implied.
+
+---
+
+## 9. Limitation of Liability
+
+To the maximum extent permitted by applicable law, Development.Help, its owners, administrators, moderators, contributors, and volunteers shall not be liable for any direct, indirect, incidental, consequential, or special damages arising from the use of our services.
+
+---
+
+## 10. Changes to These Terms
+
+We may update these Terms of Service at any time.
+
+The updated version becomes effective immediately upon publication.
+
+Continued use of Development.Help after changes have been published constitutes acceptance of the revised Terms.
+
+---
+
+## Contact
+
+**Official Discord Server**
+
 https://discord.gg/NBhevhTcZp
-</a>
-</p>
 
-</main>
+---
 
-<footer>
-    <hr>
-    <p>© 2026 Development.Help. All rights reserved.</p>
-</footer>
+## Related Documents
 
-</body>
-</html>
+- [Home](index.md)
+- [Rules](rules.md)
+- [Community Guidelines](community-guidelines.md)
+- [Privacy Policy](privacy.md)
+- [Copyright](copyright.md)
+
+---
+
+© 2026 Development.Help. All Rights Reserved.
+
+*Development.Help is an independent community and is not affiliated with, endorsed by, or sponsored by Discord Inc.*
