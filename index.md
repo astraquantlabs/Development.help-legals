@@ -1,41 +1,50 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Development.Help</title>
+# 🚀 Welcome to Development.Help
 
-    <link rel="stylesheet" href="css/style.css">
-</head>
+Welcome to **Development.Help**, an independent Discord community focused on programming, software development, cybersecurity, and technology.
 
-<body>
+Our mission is to provide a professional, friendly, and collaborative environment where developers of all skill levels can learn, build projects, solve problems, and grow together.
 
-<section>
-    <h2>Welcome to Development.Help</h2>
+---
 
-    <p>
-        Development.Help is an independent Discord community dedicated to programming,
-        software development, cybersecurity, web development, bot development,
-        and technology discussions. Our goal is to provide a safe, helpful, and
-        professional environment where members can learn, collaborate, and grow.
-    </p>
+## 🌟 What We Offer
 
-    <p>
-        By participating in this community, you agree to follow our
-        <a href="terms.html">Terms of Service</a>,
+- 💻 Programming Help
+- 🌐 Web Development
+- 🤖 Discord Bot Development
+- 🐍 Python Support
+- 🔐 Cybersecurity Discussions
+- 📚 Learning Resources
+- 🛠️ Project Collaboration
+- 👥 Community Support
 
-        <a href="privacy.html">Privacy Policy</a>, and
-        <a href="community-guidelines.html">Community Guidelines</a>.
-    </p>
+---
 
-    <p>
-        <a href="https://discord.gg/NBhevhTcZp" target="_blank" rel="noopener noreferrer">
-            Join Our Discord Server
-        </a>
-    </p>
-</section>
+## 📖 Documentation
 
-<script src="js/script.js"></script>
+Before participating in our community, please read the following documents:
 
-</body>
-</html>
+- 📜 [Rules](rules.md)
+- 🤝 [Community Guidelines](community-guidelines.md)
+- 📄 [Terms of Service](terms.md)
+- 🔒 [Privacy Policy](privacy.md)
+- © [Copyright](copyright.md)
+
+---
+
+## 🌐 Join Our Community
+
+**Discord Invite**
+
+https://discord.gg/NBhevhTcZp
+
+---
+
+## ⚖️ Notice
+
+By joining or participating in Development.Help, you acknowledge that you have read and agree to follow our Rules, Community Guidelines, Terms of Service, and Privacy Policy.
+
+---
+
+Thank you for being part of **Development.Help**.
+
+**Learn • Build • Collaborate**>
