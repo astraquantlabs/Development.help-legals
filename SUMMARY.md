@@ -1,9 +1,9 @@
 # Table of contents
 
 * [Development.Help](README.md)
-* [community-guidelines](community-guidelines.md)
-* [copyright](copyright.md)
-* [index](index.md)
-* [privacy](privacy.md)
-* [rules](rules.md)
-* [terms](terms.md)
+* [Home](index.md)
+* [Rules](rules.md)
+* [Community Guidelines](community-guidelines.md)
+* [Terms of Service](terms.md)
+* [Privacy Policy](privacy.md)
+* [Copyright](copyright.md)
