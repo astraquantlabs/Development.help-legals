@@ -1,34 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Community Rulebook</title>
-    <style>
-        body{
-            font-family:Arial,sans-serif;
-            background:#111827;
-            color:#f3f4f6;
-            max-width:900px;
-            margin:auto;
-            padding:40px;
-            line-height:1.7;
-        }
-        h1{
-            text-align:center;
-            color:#60a5fa;
-        }
-        h2{
-            color:#93c5fd;
-            margin-top:30px;
-        }
-        p{
-            background:#1f2937;
-            padding:10px 15px;
-            border-left:4px solid #3b82f6;
-            border-radius:6px;
-        }
-    </style>
+
+     
 </head>
 <body>
 
