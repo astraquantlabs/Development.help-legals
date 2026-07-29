@@ -35,4 +35,42 @@ By posting content within **Development.Help**, you grant us a limited, non-excl
 
 ---
 
-## 4. Third-Party
+## 4. Third-Party Content
+
+All third-party trademarks, logos, software, and intellectual property remain the property of their respective owners.
+
+References to third-party services do not imply ownership, sponsorship, endorsement, or affiliation.
+
+---
+
+## 5. Reporting Copyright Concerns
+
+If you believe that your copyrighted work has been used improperly within **Development.Help**, please contact the server administration through our official Discord server with sufficient information for us to investigate.
+
+---
+
+## 6. Disclaimer
+
+Development.Help is an independent community and is **not affiliated with, endorsed by, or sponsored by Discord Inc.**
+
+---
+
+## 7. Contact
+
+**Official Discord Server**
+
+https://discord.gg/NBhevhTcZp
+
+---
+
+## Related Documents
+
+- [Home](index.md)
+- [Rules](rules.md)
+- [Community Guidelines](community-guidelines.md)
+- [Terms of Service](terms.md)
+- [Privacy Policy](privacy.md)
+
+---
+
+© 2026 Development.Help. All Rights Reserved.
